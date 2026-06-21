@@ -1,0 +1,8 @@
+{
+  "id": "swiftui-okf",
+  "name": "SwiftUI Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for SwiftUI (declarative UI, state management, layout, navigation, and architecture)",
+  "entry": "index.md",
+  "tags": ["swiftui", "ios", "ui", "apple", "declarative"]
+}
